@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/keerthana-st/leetcode-_challenge/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/keerthana-st/leetcode-_challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/keerthana-st/leetcode-_challenge/tree/master/0344-reverse-string) |
+| [0905-sort-array-by-parity](https://github.com/keerthana-st/leetcode-_challenge/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/keerthana-st/leetcode-_challenge/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/keerthana-st/leetcode-_challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0905-sort-array-by-parity](https://github.com/keerthana-st/leetcode-_challenge/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/keerthana-st/leetcode-_challenge/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -25,5 +27,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0905-sort-array-by-parity](https://github.com/keerthana-st/leetcode-_challenge/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/keerthana-st/leetcode-_challenge/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
