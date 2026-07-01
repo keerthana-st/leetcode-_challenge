@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/keerthana-st/leetcode-_challenge/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/keerthana-st/leetcode-_challenge/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/keerthana-st/leetcode-_challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/keerthana-st/leetcode-_challenge/tree/master/0344-reverse-string) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/keerthana-st/leetcode-_challenge/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/keerthana-st/leetcode-_challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0905-sort-array-by-parity](https://github.com/keerthana-st/leetcode-_challenge/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/keerthana-st/leetcode-_challenge/tree/master/0977-squares-of-a-sorted-array) |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/keerthana-st/leetcode-_challenge/tree/master/0088-merge-sorted-array) |
 | [0905-sort-array-by-parity](https://github.com/keerthana-st/leetcode-_challenge/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/keerthana-st/leetcode-_challenge/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
